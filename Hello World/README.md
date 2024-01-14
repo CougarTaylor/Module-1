@@ -6,9 +6,7 @@
 
 {This program is made to make sure everyting I've set up is working correctly.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YGxfUwDOOMQ)
 
 # Development Environment
 
